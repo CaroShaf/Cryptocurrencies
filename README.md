@@ -45,7 +45,7 @@ links below.
 
 These results are left to interpretation, but a January 2021 article in Investopedia [https://www.investopedia.com/tech/most-important-cryptocurrencies-other-than-bitcoin/] 
 names 10 cryptocurrencies that are "most important."  A full half of this ten are not listed in our data set, as can be determined by using the HVplot table.  Furthermore, our
-dataset, even before removing about half of it due to non-tradeable status.  However, according to Investopedia [https://www.investopedia.com/news/does-your-financial-advisor
+dataset has nearly half of it removed due to non-tradeable status.  However, according to Investopedia [https://www.investopedia.com/news/does-your-financial-advisor
 speak-crypto/], as of April 2021, there are over 9,000 peer-to-peer cryptocurrencies which are actively transferring data and value.
 
 Since the point of cryptocurrency is to elminate the middleman (i.e., the bank) by using blockchain technology as the validation/trustworthy agent for financial (and other
@@ -53,9 +53,7 @@ legal) transactions, it may not be the best business for banks to be getting in,
 likening investment in cryptocurrency to gambling.  They aren't recommending it.
 
 However, that being said, much more data analysis would be required before Accountability Accounting should get into this game.  Even with this machine learning algorithm, or
-others, the results are fairly inconclusive except that of the five (of ten) most important cryptocurrencies present in our dataset, three were Proof of Stake algorithms and
-two were Proof of Work.  The first article cited above indicate a trend of endorsements for cryptocurrencies that use proof-of-stake algorithms that increase transactions per
-second over other algorithms.  With this key feature in our dataset but with such a very small subset of data that does not contain market capitalization values or token values
-it does seem somewhat like gambling rather than investing.
-
-
+others, with this dataset, the results are fairly inconclusive except that of the five (of ten) most important cryptocurrencies present in our dataset, three were Proof of Stake
+algorithms and two were Proof of Work.  The first article cited above indicates a trend of endorsements for cryptocurrencies that use proof-of-stake algorithms that increase
+transactions per second over other algorithms.  With this key feature in our dataset but with such a very small subset of data that does not contain market capitalization values
+or token values it does seem somewhat like gambling rather than investing.
