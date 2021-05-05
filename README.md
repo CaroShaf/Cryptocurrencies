@@ -28,16 +28,15 @@ different aspects, such as the name of the cryptocurrency and algorithm it uses 
 links below.
 
 ## Results
-
-      Scatter plot [https://github.com/CaroShaf/Cryptocurrencies/blob/main/images/scatter%20plot.png] - this two-dimensional plot may be the least useful of the three
+* Scatter plot [https://github.com/CaroShaf/Cryptocurrencies/blob/main/images/scatter%20plot.png] - this two-dimensional plot may be the least useful of the three
       visualizations since the color of the data points is the only distinguishing feature and only alludes to the 3rd dimension by showing different colored dots on top of
       others.  This plot does, however, have a hover feature so that individual data points can be examined for further information.
       
-      3d scatter plot [https://github.com/CaroShaf/Cryptocurrencies/blob/main/images/3d%20showing%20bittorrent.png] - this three-dimensional plot is quite interesting as it can
+* 3d scatter plot [https://github.com/CaroShaf/Cryptocurrencies/blob/main/images/3d%20showing%20bittorrent.png] - this three-dimensional plot is quite interesting as it can
       be rotated and zoomed in and out to see the groupings more clearly.  This plot also has hover features and the image shows the hover feature activated for BitTorrent,
       which is clearly an "outlier," in a class of its own.
       
-      Hvplot table [https://github.com/CaroShaf/Cryptocurrencies/blob/main/images/hvplot%20table.png] - this table, as shown in the image, is very useful in that it is
+ * Hvplot table [https://github.com/CaroShaf/Cryptocurrencies/blob/main/images/hvplot%20table.png] - this table, as shown in the image, is very useful in that it is
       interactive and as such CoinName can be alphabetized or algorithms or classes can be "grouped" by sorting on the column of choice.
 
 
